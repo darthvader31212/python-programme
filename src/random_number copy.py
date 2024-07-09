@@ -1,4 +1,4 @@
-import random
+import random 
 
 gesuchte_zahl = random.randint(1,100)
 anzahl_versuche = int(input("wie viele versuche möchtest du haben\n"))
